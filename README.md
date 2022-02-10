@@ -1,2 +1,2 @@
-# Luciana - P8 de Informática
-Luciana Victória - Repositório para SOR2
+# Sistemas Operacionais de Rede 2
+Luciana Victória Oliveira da Silva
